@@ -1,7 +1,7 @@
 # Unsupervised_Learning
 
 This file contains an example of unsupervised learning with two set of points (both are uploaded separately).
-After generating labels of unsupervised data, scatter plot is presentend that indicates 3 different clusetrs.
+After generating labels of an unsupervised data (new_points.csv), scatter plot is presentend that indicates 3 different clusters.
 
 # Required Python Modules
 1. numpy
