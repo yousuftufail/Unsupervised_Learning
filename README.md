@@ -8,4 +8,4 @@ After generating labels of unsupervised data, scatter plot is presentend that in
 2. matplotlib.pyplot
 3. pandas
 4. sklearn
-5. seaborn (not compulsory but I like representation of graphs in this enviornment)
+5. seaborn (not compulsory but I like this enviornment for the representation of graphs)
